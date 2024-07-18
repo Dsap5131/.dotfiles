@@ -8,7 +8,6 @@ Requirements:
 
 TODO:
 - Add zsh config
-- Add i3 config
 - Add xmodmap
 - Create install script for dependencies
 - Create install script for repo install
