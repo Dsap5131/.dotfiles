@@ -188,7 +188,8 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
 }
-exec --no-startup-d nm-applet
+exec --no-startup-id nm-applet
+exec --no-startup-id compton 
 exec_always --no-startup-id /usr/bin/feh --bg-scale '/home/dsapienza/Pictures/wallpaper_grim_reaper.jpg'
 bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
 bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
