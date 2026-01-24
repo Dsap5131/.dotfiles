@@ -5,6 +5,7 @@ Requirements:
 - nvim requirements in its repo
 - tmux requirements:
     - fzf
+- claude code
 
 TODO:
 - Add zsh config
