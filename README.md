@@ -8,6 +8,4 @@ Requirements:
 - claude code
 
 TODO:
-- Create install script for dependencies
-- Create install script for repo install
-- local storing of dependencies?
+- persistent claude cost tracker, like tok
