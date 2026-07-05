@@ -115,4 +115,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-alias vim="/usr/bin/nvim"
+alias vim="nvim"
